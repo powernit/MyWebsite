@@ -14,6 +14,7 @@ export class AppComponent {
     this.a = this.a.concat(this.b);
   }
   reset(){
+    //reset
     this.a = [1,2,3,4];
   }
 }
